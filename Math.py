@@ -7,3 +7,5 @@ def multiply(x,y):
     return a**b #in bug456
 def divide(x,y):
     a/b
+def sqaure(x)"
+	return x*x;
