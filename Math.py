@@ -6,4 +6,4 @@ def subtract(x,y):
 def multiply(x,y):
     return a**b #in bug456
 def divide(x,y):
-    pass
+    a/b
